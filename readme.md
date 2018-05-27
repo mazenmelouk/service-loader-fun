@@ -1,0 +1,1 @@
+Just a trial for Java ServiceLoader. Them most important part is **META-INF/services/interface-package-name** file.
